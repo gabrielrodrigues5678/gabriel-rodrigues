@@ -31,6 +31,18 @@ Bubble Sort é um algoritmo de ordenação, Se o objetivo é ordenar os valores 
 
 9 - Binômio de Newton - O binômio de Newton é um método simples que permite determinar a enésima potência de um binômio. O desenvolvimento do binômio de Newton em alguns casos é bastante simples. Podendo ser feita multiplicando-se diretamente todos os termos. Contudo, nem sempre é conveniente utilizar esse método, pois de acordo com o expoente, os cálculos ficarão extremamente trabalhosos.
 
+10) Descreva o algoritmo que calcule o MMC: O MMC é o MINIMO MÚLTIPLO COMUM. O objetivo do algoritmo que calcula o mmc é o mínimo múltiplo comum (MMC) entre números inteiros é o menor número, também inteiro, que é múltiplo de todos esses números ao mesmo tempo. Por exemplo, o MMC entre 2 e 12 é 12, pois os múltiplos de 2 são 2, 4, 6, 8, 10, 12… e os de 12 são: 12, 24, …
+
+11) Descreva o algoritmo que calcule o MDC: O MDC é o MÁXIMO DIVISOR COMUM. O objetivo do algoritmo que calcula o mdc é o máximo divisor comum entre dois ou mais números naturais é o maior de seus divisores. Dois números naturais sempre têm divisores em comum.
+
+12) Descreva o algoritmo de numeros perfeitos: Um número se diz perfeito se é igual à soma de seus divisores próprios. Divisores próprios de um número positivo N são todos os divisores inteiros positivos de N exceto o próprio N. Por exemplo, o número 6, seus divisores próprios são 1, 2 e 3, cuja soma é igual à 6. (1 + 2 + 3 = 6)
+
+13) Descreva o algoritmo de numeros primos e o crivo desenvolvido por Eratóstenes : O Crivo de Eratóstenes é um método que permite obter uma tabela de números primos até um limite escolhido, escreve-se a sucessão natural dos números inteiros até ao número desejado. Suprime-se o número 1. O número 2 é o menor número primo. A partir do que lhe segue o 3, cortam-se todos os múltiplos de 2. O número 3, o primeiro que não foi cortado, é primo. A partir dos que lhe seguem cortamos todos os múltiplos de três. O primeiro não riscado é 5, que será número primo, e a partir de 6 cortamos todos os múltiplos de cinco.
+
+14) Descreva o algoritmo de número decimal para binário :
+
+O coversor de base decimal recebe um número decimal e converte em binário, octal e hexadecimal. Você também pode converter das outras bases para decimal.
+
 13 - Descreva o Algoritmo de números primos e o crivo desenvolvido por Eratóstenes
 Eratóstenes foi um matemático grego que viveu entre os anos 276 a.C. até 194 a.C.
 Ele desenvolveu uma tabela, chamada de “Crivo de Eratóstenes”, onde ele conseguiu determinar, não com uma fórmula, mas com uma tabela os números naturais primos, no nosso exemplo do 0 até o 100; mas que na teoria pode ser feito para todos os números primos; porém, o inconveniente é que quanto maior for o nº primo, mais difícil de aplicar o Crivo de Eratóstenes,
